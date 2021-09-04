@@ -12,7 +12,7 @@ The Folium maps were constructed into html files with convenient time-sliders.
 
 ## In case ipynb files cant be viewed in github:
 
-# Woori Load Data:
+# Woori Loan Data:
 https://nbviewer.jupyter.org/github/darchon30704/2021_FSI_Korea/blob/main/Woori.ipynb
 
 ![ROC Curve](https://github.com/darchon30704/2021_FSI_Korea/blob/main/images/roc.png?raw=true)
