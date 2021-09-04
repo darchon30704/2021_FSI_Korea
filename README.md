@@ -8,18 +8,21 @@ An additional PoF for visualising financial asset information was also presented
 
 
 
-
-
-
-
-
 In case ipynb files cant be viewed in github:
 
 Woori:
 https://nbviewer.jupyter.org/github/darchon30704/2021_FSI_Korea/blob/main/Woori.ipynb
 
+![ROC Curve](https://github.com/darchon30704/2021_FSI_Korea/blob/main/images/roc.png?raw=true)
+
+![Precision Recall Curve](https://github.com/darchon30704/2021_FSI_Korea/blob/main/images/prc.png?raw=true)
+
 KB:
 https://nbviewer.jupyter.org/github/darchon30704/2021_FSI_Korea/blob/main/KB/KB_visualization.ipynb
 
+![KB Map](https://github.com/darchon30704/2021_FSI_Korea/blob/main/images/KBmap.png?raw=true)
+
 Shinhan:
 https://nbviewer.jupyter.org/github/darchon30704/2021_FSI_Korea/blob/main/shinhan/shinhan_visualization.ipynb
+
+![Shinhan Map](https://github.com/darchon30704/2021_FSI_Korea/blob/main/images/shinhan_map.png?raw=true)
