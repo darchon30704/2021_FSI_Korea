@@ -17,6 +17,7 @@ https://nbviewer.jupyter.org/github/darchon30704/2021_FSI_Korea/blob/main/Woori.
 
 ![Precision Recall Curve](https://github.com/darchon30704/2021_FSI_Korea/blob/main/images/prc.png?raw=true)
 
+![Mean Feature Importance](https://github.com/darchon30704/2021_FSI_Korea/blob/main/images/Woori_FI.png?raw=true)
 # KB:
 https://nbviewer.jupyter.org/github/darchon30704/2021_FSI_Korea/blob/main/KB/KB_visualization.ipynb
 
